@@ -1,0 +1,8 @@
+{
+  "name": "expensify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fersot100/expensify-course.git",
+  "author": "Juan Erazo <fersot100@yahoo.com>",
+  "license": "MIT"
+}
